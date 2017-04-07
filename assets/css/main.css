@@ -1,0 +1,37 @@
+#footer {
+	text-align: center;
+	font-size: 10px;
+	border-radius: 25px;
+	padding: 20px;
+	width: inherit;
+	height: 50px;
+	background-color: #999;
+}
+#symbol  {
+	text-align: center;
+	font-size: 48px;
+	font-weight:bold;
+	color: #FFF;
+}
+#result{
+	text-align: center;
+	font-size: 24px;
+}
+h2{
+	text-align: center;
+}
+#submitbtn{
+	text-align: center;
+}
+#calcbg{
+	border-radius: 25px;
+	padding: 20px;
+	width: 250px;
+	height: 350px;
+	background-color: #333333;
+	text-align:center;
+}
+.form-group label{
+	color: #FFF;
+	text-align:center;
+}
